@@ -10,6 +10,6 @@
 #### Abhishek Jasti:  Having an associate in mathematics and science from Cypress College, Abhishek Jasti is now in his senior year at the California State University of Long Beach pursuing a major in Computer Engineering and a minor in computer science. Experience in programming languages such as python, c, Verilog, java, etc. 
 
 ## FIRST DEMO: WEIGHT SENSING
-https://github.com/AnandJ01/R3-Cooler/blob/cfe0eb97ece884833a2bb0544986a9e1ed7a1682/Weight_Sensor/Demo%201%20Weight.pdf
+[Github Pages](https://github.com/AnandJ01/R3-Cooler/blob/cfe0eb97ece884833a2bb0544986a9e1ed7a1682/Weight_Sensor/Demo%201%20Weight.pdf)
 ## SECOND DEMO: COOLING SYSTEM
 ## THIRD DEMO:  CAMERA
