@@ -8,3 +8,7 @@
 #### Andres Garcia: Andres Garcia is a 5th year Computer Engineering with a minor in Applied Mathematics and currently attends California State University of Long Beach (CSULB). Andres has experience working with breadboarding and circuits. Andres also has experience with using microcontrollers such as the 8051 MCU and the TM4C123 Texas Instrument Launchpad. 
 #### Anand Jasti: Anand Jasti is a 5th year student at California State University of Long Beach (CSULB) majoring in Computer Engineering and minoring in Computer Science. Anand Jasti is a transfer student from Cypress College. At Cypress College Anand Jasti received an Associate in Science Transfer for Mathematics in 2020. Anand Jasti has experience working with multiple object-oriented languages, and embedded systems such as ARM Cortex TM4C123 and 8051 MCUs.
 #### Abhishek Jasti:  Having an associate in mathematics and science from Cypress College, Abhishek Jasti is now in his senior year at the California State University of Long Beach pursuing a major in Computer Engineering and a minor in computer science. Experience in programming languages such as python, c, Verilog, java, etc. 
+
+## FIRST DEMO: WEIGHT SENSING
+## SECOND DEMO: COOLING SYSTEM
+## THIRD DEMO:  CAMERA
