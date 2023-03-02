@@ -1,5 +1,5 @@
-#### R3-Cooler
-### Team Members:
+# R3-Cooler
+## Team Members:
 #### Emily Marin
 #### Ethan Dixon
 #### Andres Garcia
