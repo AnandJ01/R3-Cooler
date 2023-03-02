@@ -1,6 +1,6 @@
 # *R3-COOLER*
 
-<img src="[https://pasteboard.co/RH4RjEbZX9pk.jpg]"  width="859" height="860">
+<img src="[https://pasteboard.co/FopN5X3xDbQC.png]"  width="859" height="860">
 
 #### An “R3-Cooler” allows for our favorite movie character to be transformed into a cooler to be used at family events, movie screenings, or even as an antique collectible. A product like this is very exciting to create because of the famous movie Star Wars, a movie that millions love. Being able to see a real-life “space droid” that not only has motor control but can be used as a cooler for drinks allows our design creativity to connect with our engineering creativity. Imagine being at a party, needing a drink, and suddenly, a motor-controlled, life-size R3-Cooler comes up and offers you a cold beverage. Our team was able to come up with an idea that allows us to learn new features such as the cooling system, lid sensing, weight sensing, LCD screen, and remotely controlled motors. If time permits, we can add some more features such as a built-in speaker, Bluetooth, breathalyzer, and the list can go on. Our project will monitor beverage consumption and provide a refill alert using weight sensors. This product will eliminate the problem of guests rummaging through your fridge to find a drink. R3-Cooler will pave new ways to entertain and display to your guests. We are all looking forward to planning and creating this project to the best of our abilities.
 
