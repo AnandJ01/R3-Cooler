@@ -11,7 +11,7 @@
 
 ## FIRST DEMO: [WEIGHT SENSING](https://github.com/AnandJ01/R3-Cooler/blob/cfe0eb97ece884833a2bb0544986a9e1ed7a1682/Weight_Sensor/Demo%201%20Weight.pdf)
 
-## SECOND DEMO: COOLING SYSTEM
+## SECOND DEMO: [COOLING SYSTEM](https://github.com/AnandJ01/R3-Cooler/blob/main/Cooling_System/Demo%202%20Cooler.pdf)
 
 ## THIRD DEMO:  CAMERA
 
