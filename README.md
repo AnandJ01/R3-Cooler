@@ -13,6 +13,6 @@
 
 ## SECOND DEMO: [COOLING SYSTEM](https://github.com/AnandJ01/R3-Cooler/blob/main/Cooling_System/Demo%202%20Cooler.pdf)
 
-## THIRD DEMO:  CAMERA
+## THIRD DEMO:  [CAMERA](https://github.com/AnandJ01/R3-Cooler/blob/main/Camera/Demo%203%20Camera%20.pdf)
 
 ## Final DEMO
