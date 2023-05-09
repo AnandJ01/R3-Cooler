@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="R3CoolerApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:R3CoolerApp"
+    Shell.FlyoutBehavior="Disabled">
+
+    <TabBar>
+    <ShellContent
+        Title="Home"
+        Icon="homeicon.png"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <ShellContent
+        Title="Cooler Control"
+        Icon="controlicon.png"
+        ContentTemplate="{DataTemplate local:CoolerControl}"
+        Route="Cooler Control" />
+
+    <ShellContent
+        Title="Beverage Consumption"
+        Icon="drinkicon.png"
+        ContentTemplate="{DataTemplate local:DrinkConsumption}"
+        Route="DrinkConsumption"/>
+
+
+    </TabBar>
+
+</Shell>

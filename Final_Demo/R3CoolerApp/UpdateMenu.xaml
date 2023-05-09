@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="R3CoolerApp.UpdateMenu"
+             Title="Update Menu" >
+    <VerticalStackLayout
+        Spacing="10"
+        Padding="30" >
+
+        <HorizontalStackLayout>
+
+            <CheckBox
+                x:Name="cokeCheck"
+                CheckedChanged="cokeCheckBox" />
+            
+            <Label                
+                Text="Coca Cola"
+                FontSize="18"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+           
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+
+            <CheckBox
+                x:Name="drPepperCheck"
+                CheckedChanged="drPepperCheckBox" />
+
+            <Label                
+                Text="Dr. Pepper"
+                FontSize="18"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+
+            <CheckBox
+                x:Name="mountainDewCheck"
+                CheckedChanged="mountainDewCheckBox" />
+
+            <Label                
+                Text="Mountain Dew"
+                FontSize="18"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+
+            <CheckBox
+                x:Name="pepsiCheck"
+                CheckedChanged="pepsiCheckBox" />
+
+            <Label                
+                Text="Pepsi"
+                FontSize="18"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+
+            <CheckBox
+                x:Name="rootBeerCheck"
+                CheckedChanged="rootBeerCheckBox" />
+
+            <Label                
+                Text="Root Beer"
+                FontSize="18"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+
+            <CheckBox
+                x:Name="spriteCheck"
+                CheckedChanged="spriteCheckBox" />
+
+            <Label                
+                Text="Sprite"
+                FontSize="18"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+
+        </HorizontalStackLayout>
+
+
+    </VerticalStackLayout>
+</ContentPage>

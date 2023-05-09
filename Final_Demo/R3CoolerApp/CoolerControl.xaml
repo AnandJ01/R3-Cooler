@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="R3CoolerApp.CoolerControl"
+             Title="Cooler Control">
+    <ScrollView>
+    <VerticalStackLayout Spacing="10" Padding="30,30">
+
+        <!--<WebView Source="https://www.google.com/"  HeightRequest="350" Margin="0,0,0,20" />-->
+        
+        <Button
+                x:Name="ForwardN"
+                Clicked="Forward"
+                ImageSource="forwardarrow.png"
+                HorizontalOptions="Center" 
+                VerticalOptions="Center"  />
+        
+        <HorizontalStackLayout Spacing ="10"  HorizontalOptions="Center">
+            <Button
+                x:Name="Left"
+                Clicked="TurnLeft" 
+                ImageSource="leftarrow.png"
+                VerticalOptions="Center" />
+
+            <Button 
+                x:Name="Stop"
+                Clicked="StopWheels"
+                Text="Stop"
+                VerticalOptions="Center" />
+
+            <Button
+                x:Name="Right"
+                Clicked="TurnRight" 
+                ImageSource="rightarrow.png"
+                VerticalOptions="Center" />
+            
+        </HorizontalStackLayout>
+
+            <Button
+                x:Name="ReverseN"
+                Clicked="Reverse" 
+                VerticalOptions="Center" 
+                ImageSource="reversearrow.png"
+                HorizontalOptions="Center" />
+
+            <VerticalStackLayout Padding="0,40">
+                <Button
+                    x:Name="Open_Cooler_DoorN"
+                    Clicked="Open_Cooler_Door"
+                    Text="Open Cooler Door"
+                    HorizontalOptions="Start" 
+                    VerticalOptions="Center" 
+                />
+            </VerticalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
